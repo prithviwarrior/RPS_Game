@@ -28,4 +28,4 @@ jobs:
 
     - name: Test with pytest
       run: |
-        python RockPaperScissors.py
+        python Test/Verify_RPS.py
